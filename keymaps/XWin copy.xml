@@ -1,0 +1,196 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="AddAnotherBookmark">
+    <keyboard-shortcut first-keystroke="space" second-keystroke="b" />
+  </action>
+  <action id="CloseGotItTooltip">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Console.TableResult.ColumnVisibility" />
+  <action id="CopyReferencePopupGroup">
+    <keyboard-shortcut first-keystroke="y" second-keystroke="period" />
+  </action>
+  <action id="Debugger.StepOutOfBlock">
+    <keyboard-shortcut first-keystroke="shift k" />
+  </action>
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EscUnfollowUserAction">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="Find" />
+  <action id="FocusEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift alt f8" />
+    <keyboard-shortcut first-keystroke="shift l" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="g" second-keystroke="d" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="g" second-keystroke="i" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="g" second-keystroke="t" />
+  </action>
+  <action id="Graph.AlignNodes.Left" />
+  <action id="List-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="l" />
+  </action>
+  <action id="List-selectNextRow">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="j" />
+  </action>
+  <action id="List-selectPreviousColumn">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="h" />
+  </action>
+  <action id="List-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="k" />
+  </action>
+  <action id="NavBar-cancel">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="NavBar-selectDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="j" />
+  </action>
+  <action id="NavBar-selectLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="h" />
+  </action>
+  <action id="NavBar-selectRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="l" />
+  </action>
+  <action id="NavBar-selectUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="k" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="PopupMenu-cancel">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="PopupMenu-selectChild">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="l" />
+  </action>
+  <action id="PopupMenu-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="j" />
+  </action>
+  <action id="PopupMenu-selectParent">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="h" />
+  </action>
+  <action id="PopupMenu-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="k" />
+  </action>
+  <action id="QuickPreview" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SegmentedButton-left">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="l" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="SplitChooser.SplitCenter" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="j" />
+  </action>
+  <action id="Table-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="l" />
+  </action>
+  <action id="Table-selectNextRow">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="j" />
+  </action>
+  <action id="Table-selectPreviousColumn">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="h" />
+  </action>
+  <action id="Table-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="k" />
+  </action>
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="b" />
+  </action>
+  <action id="Tree-selectChild">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="l" />
+  </action>
+  <action id="Tree-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="j" />
+  </action>
+  <action id="Tree-selectParent">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="h" />
+  </action>
+  <action id="Tree-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="k" />
+  </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+</keymap>

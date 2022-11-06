@@ -5,6 +5,10 @@
   <action id="AddAnotherBookmark">
     <keyboard-shortcut first-keystroke="space" second-keystroke="b" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="space" second-keystroke="q" />
+  </action>
   <action id="CloseGotItTooltip">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -12,6 +16,7 @@
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="CollapsiblePanel-toggle" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="CopyReferencePopupGroup">
     <keyboard-shortcut first-keystroke="y" second-keystroke="period" />
@@ -40,6 +45,9 @@
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="Find" />
+  <action id="FindSelectionInPath">
+    <keyboard-shortcut first-keystroke="slash" />
+  </action>
   <action id="FocusEditor">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -142,6 +150,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ScopeView.EditScopes">
+    <keyboard-shortcut first-keystroke="space" second-keystroke="s" />
   </action>
   <action id="SegmentedButton-left">
     <keyboard-shortcut first-keystroke="left" />

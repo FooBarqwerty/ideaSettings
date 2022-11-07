@@ -2,13 +2,7 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="AddAnotherBookmark">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="b" />
-  </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="space" second-keystroke="q" />
-  </action>
+  <action id="CloseContent" />
   <action id="CloseGotItTooltip">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -78,6 +72,7 @@
     <keyboard-shortcut first-keystroke="g" second-keystroke="t" />
   </action>
   <action id="Graph.AlignNodes.Left" />
+  <action id="Images.Thumbnails.Hide" />
   <action id="List-selectNextColumn">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="l" />
@@ -150,9 +145,6 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-  <action id="ScopeView.EditScopes">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="s" />
   </action>
   <action id="SegmentedButton-left">
     <keyboard-shortcut first-keystroke="left" />

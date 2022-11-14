@@ -1,9 +1,0 @@
-<application>
-  <component name="ComposeFilesSynchronizedWithServiceView">
-    <option value="file://$USER_HOME$/Software/Calco/FinalExercise/docker-compose.yml" />
-  </component>
-  <component name="DockerSettings">
-    <option name="dockerComposePath" value="/usr/bin/docker-compose" />
-    <option name="dockerMachinePath" value="" />
-  </component>
-</application>
